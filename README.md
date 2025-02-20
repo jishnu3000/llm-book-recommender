@@ -1,11 +1,5 @@
 # **📚 AI-Powered Book Recommendation**  
 
-[![Contributors][contributors-shield]][contributors-url]  
-[![Forks][forks-shield]][forks-url]  
-[![Stargazers][stars-shield]][stars-url]  
-[![Issues][issues-shield]][issues-url]  
-[![License][license-shield]][license-url]  
-
 ### **🔗 Live Demo:** [View on Hugging Face Spaces](https://huggingface.co/spaces/jishnu23/book-reccommendation-system)
 
 ---
@@ -105,17 +99,5 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 <p align="right">(<a href="#top">⬆ Back to top</a>)</p>
 
 ---
-
-<!-- MARKDOWN BADGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/jishnu3000/llm-book-recommender.svg?style=for-the-badge  
-[contributors-url]: https://github.com/jishnu3000/llm-book-recommender/graphs/contributors  
-[forks-shield]: https://img.shields.io/github/forks/jishnu3000/llm-book-recommender.svg?style=for-the-badge  
-[forks-url]: https://github.com/jishnu3000/llm-book-recommender/network/members  
-[stars-shield]: https://img.shields.io/github/stars/jishnu3000/llm-book-recommender.svg?style=for-the-badge  
-[stars-url]: https://github.com/jishnu3000/llm-book-recommender/stargazers  
-[issues-shield]: https://img.shields.io/github/issues/jishnu3000/llm-book-recommender.svg?style=for-the-badge  
-[issues-url]: https://github.com/jishnu3000/llm-book-recommender/issues  
-[license-shield]: https://img.shields.io/github/license/jishnu3000/llm-book-recommender.svg?style=for-the-badge  
-[license-url]: https://github.com/jishnu3000/llm-book-recommender/blob/master/LICENSE.txt  
 
 🚀 **Ready to explore AI-powered book search?** [Try it now!](https://huggingface.co/spaces/jishnu23/book-reccommendation-system)
